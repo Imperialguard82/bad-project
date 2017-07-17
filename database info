@@ -1,0 +1,43 @@
+https://bad-project-imperialguard82.c9users.io/phpmyadmin
+You can log in at: https://bad-project-imperialguard82.c9users.io/phpmyadmin phpmyadmin-ctl install
+ (and blank password):
+
+
+Information to finish database:
+https://www.youtube.com/watch?v=oZQGvfJFCjM&feature=youtu.be
+https://www.youtube.com/watch?v=kifyQJoNw3w
+https://www.youtube.com/watch?v=IHdd02IK2Jg
+
+TESTER ACCOUNT CREDENTIALS
+
+Email: 
+Password: 
+
+<?php
+            
+            $servername = "127.0.0.1";
+            $username = "imperialguard82";
+            $password = "";
+            $database = "gluten_free";
+            $dbport = "3306";
+            
+            $con = mysqli_connect("127.0.0.1", "imperialguard82", "", "gluten_free", "3306")or die(mysqli_connect_error());
+    
+            $query="SELECT * FROM food";
+    
+             $result=mysqli_query($con,$query);
+                echo "<table border=1>";
+             while($row= mysqli_fetch_array($result))
+            {
+  
+               echo "<tr>";
+                echo "<td>" .$row["food_id"] . "</td>";
+                echo "<td>".$row["food_name"] . "</td>";
+                echo "<td>".$row["wheretobuy"] . "</td>";
+                echo "</tr>";
+            }
+             echo "<table>";
+            mysqli_close($con);
+            ?>
+            
+            
