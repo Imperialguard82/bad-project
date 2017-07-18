@@ -43,11 +43,11 @@
     
     </head>
     
-    <body style="background-color : #F4D03F;">
+    <body style="background-color : cyan;">
         <header>
             <div class="header">
                 <img src="images/Logo.png" alt="logo" style="display: block;
-    margin: 0 auto;"/>
+    margin: 0 auto; background-color: white; border-radius:85px;"/>
             </div>
             <div id="top-menu" class="menu-bar navbar navbar-default">
         
@@ -58,13 +58,13 @@
          
         
         
-          <button id="menu" class="btn btn-primary" type="button" onclick="firstBtn()" style="width:20%; ">Home</button>
+          <button id="menu" class="btn btn-primary" type="button" onclick="firstBtn()" style="width:20%; font-family: Audimat, Georgia, Serif; ">Home</button>
           
-          <a href="/html/map.html"><button id="menu" class="btn btn-primary" type="button" style="width:20%;">Map</button></a> 
+          <a href="/html/map.html"><button id="menu" class="btn btn-primary" type="button" style="width:20%; font-family: Audimat, Georgia, Serif;">Map</button></a> 
           
-          <button id="menu"  class="btn btn-primary" type="button" onclick="thirdBtn()" style="width:20%;">Gluten free foods</button>
+          <button id="menu"  class="btn btn-primary" type="button" onclick="thirdBtn()" style="width:20%; font-family: Audimat, Georgia, Serif;">Gluten free foods</button>
           
-          <button id="menu" class="btn btn-primary" type="button" onclick="fourthBtn()" style="width:20%;">What is gluten?</button>
+          <button id="menu" class="btn btn-primary" type="button" onclick="fourthBtn()" style="width:20%; font-family: Audimat, Georgia, Serif;">What is gluten?</button>
          
         </ul>
         

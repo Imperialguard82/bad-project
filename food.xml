@@ -1,0 +1,57 @@
+<!--
+/*
+ * location.php
+ *
+ *
+ *
+ * Date 4/7/2017
+ *
+ * @reference https://developers.google.com/maps/documentation/javascript/mysql-to-maps
+ * 
+ */ 
+-->
+<!--
+/*
+ * phpsqlajax_dbinfo.php
+ *
+ *
+ *
+ * Date e.g. 4/7/2017
+ *
+ * @author Brian Doyle, x14322731
+ *
+ */ 
+-->
+
+<foods>
+<food food_id="" food_name="Quorn Hot Dogs" wheretobuy="Supermarket"/>
+<food food_id="" food_name="Medium Roast Decaf Organic Arabica Coffee" wheretobuy="Supermarket"/>
+<food food_id="" food_name="Warburtons Gluten & Wheat Free Seeded Sandwich Thins " wheretobuy="Supermarket"/>
+<food food_id="" food_name="Quorn Meat Free Chicken Pieces" wheretobuy="Supermarket"/>
+<food food_id="" food_name="McCain Oven Chips, Crinkle Cut" wheretobuy="Supermarket"/>
+<food food_id="" food_name="Nimbus Late Harvest Dessert 2012 Wine" wheretobuy="Supermarket"/>
+<food food_id="" food_name="Encona Farina Potato Starch Packets" wheretobuy="Supermarket"/>
+<food food_id="" food_name="McCain Hash Browns" wheretobuy="Supermarket"/>
+<food food_id="" food_name="Dunns River Gungo Peas Packets" wheretobuy="Supermarket"/>
+<food food_id="" food_name="Raw Health Organic Raw Whole Cashew Butter" wheretobuy="Supermarket"/>
+<food food_id="" food_name="Grilled Free Range Irish Pork T-Bone" wheretobuy="Cafe"/>
+<food food_id="" food_name="Grilled Irish Premium Beef Fillet" wheretobuy="Cafe"/>
+<food food_id="" food_name="Organic Irish Beef Burger" wheretobuy="Cafe"/>
+<food food_id="" food_name="Organic Cottage Pie" wheretobuy="Cafe"/>
+<food food_id="" food_name="Free Range Irish Chicken Wings" wheretobuy="Cafe"/>
+<food food_id="" food_name="Thai Beef Salad" wheretobuy="Cafe"/>
+<food food_id="" food_name="Gluten Free Seared Scallops" wheretobuy="Cafe"/>
+<food food_id="" food_name="Hummus,Taboulleh & Tapenade" wheretobuy="Cafe"/>
+<food food_id="" food_name="Mediterranean Chicken Sandwich" wheretobuy="Cafe"/>
+<food food_id="" food_name="Deep Fried Calamari" wheretobuy="Cafe"/>
+<food food_id="" food_name="Croquetas de Jamon" wheretobuy="Restaurant"/>
+<food food_id="" food_name="Seafood Rigatoni" wheretobuy="Restaurant"/>
+<food food_id="" food_name="Fillet Of Beef With Mushrooms & Tarragon" wheretobuy="Restaurant"/>
+<food food_id="" food_name="Monkfish On The Bone" wheretobuy="Restaurant"/>
+<food food_id="" food_name="Halibut With Walnut Relish" wheretobuy="Restaurant"/>
+<food food_id="" food_name="Slow Roast Lamb Belly" wheretobuy="Restaurant"/>
+<food food_id="" food_name="Baked Portobello Mushroom" wheretobuy="Restaurant"/>
+<food food_id="" food_name="Mixed Thai Dim Sum" wheretobuy="Restaurant"/>
+<food food_id="" food_name=" Honey Crumbed Prawns" wheretobuy="Restaurant"/>
+<food food_id="" food_name="Duck Spring Rolls" wheretobuy="Restaurant"/>
+</foods>

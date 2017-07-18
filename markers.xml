@@ -1,0 +1,57 @@
+<!--
+/*
+ * location.php
+ *
+ *
+ *
+ * Date 11/7/2017
+ *
+ * @reference https://developers.google.com/maps/documentation/javascript/mysql-to-maps
+ * 
+ */ 
+-->
+<!--
+/*
+ * phpsqlajax_dbinfo.php
+ *
+ *
+ *
+ * Date e.g. 11/7/2017
+ *
+ * @author Alexander Corcoran, x14365561
+ *
+ */ 
+-->
+<markers>
+<marker id="" name="Marks & Spencers" address="31, 3b-4a Excise Walk, Clarion Quay Dublin 1" type="Supermarket" foodtype="General" lat="53.348858" long="-6.243628"/>
+<marker id="" name="Tesco Express" address="Moland House, Talbot St, North City, Dublin 1" type="Supermarket" foodtype="General" lat="53.350552" long="-6.256160"/>
+<marker id="" name="Musashi IFSC" address="Unit 2, Burton Hall, Custome House Square, Mayor Street Lower, North Dock, Dublin 1" type="Restaurant" foodtype="Sushi" lat="53.349541" long="-6.243356"/>
+<marker id="" name="Seven Wonders" address="Excise Walk, IFSC, Dublin 1" type="Cafe" foodtype="Sandwiches,soups" lat="53.348526" long="-6.243672"/>
+<marker id="" name="Milanos" address="6 Excise Walk, North Wall, Clarion Quay, Dublin" type="Restaurant" foodtype="Italians" lat="53.347912" long="-6.243787"/>
+<marker id="" name="Starbucks Coffee" address="Unit 32/33, IFSC, The Custom House Quay Building, Custom House Quay, North Dock, Dublin 1" type="Cafe" foodtype="Sandwiches" lat="53.349403" long="-6.247959"/>
+<marker id="" name="Caffe Nero" address="Unit 5, Excise Walk, North Dock, Dublin 1" type="Cafe" foodtype="Confectionaries and soups" lat="53.348217" long="-6.243672"/>
+<marker id="" name="Iceland" address="34 Talbot St., Mountjoy, Dublin 1" type="Supermarket" foodtype="General" lat="53.351154" long="-6.252338"/>
+<marker id="" name="Madina Desi Curry Co" address="60 Mary St, North City, Dublin 1" type="Restaurant" foodtype="Indian food" lat="53.348595" long="-6.268217"/>
+<marker id="" name="Starbucks" address="32 O&#39;Connell Street Lower, North City, Dublin 1" type="Cafe" foodtype="Sandwiches" lat="53.347595" long="-6.259677"/>
+<marker id="" name="The Drunken Fish" address="The Excise Building, Mayor Street Lower, IFSC, Dublin 1" type="Restaurant" foodtype="Korean food" lat="53.349159" long="-6.243510"/>
+<marker id="" name="Supervalu" address="27 - 32 Talbot St, Dublin, Dublin 1" type="Supermarket" foodtype="General" lat="53.351151" long="-6.252703"/>
+<marker id="" name="Beshoff Bros" address="71 Dame Street, Temple Bar, Dublin 2" type="Restaurant" foodtype="Chipper (only gluten free chipper in dublin)" lat="53.344307" long="-6.265997"/>
+<marker id="" name="Cornucopia" address="19-20 Wicklow St, Dublin 2" type="Restaurant" foodtype="Vegetarian" lat="53.343094" long="-6.261418"/>
+<marker id="" name="Supermacs" address="45/46 O&#39;Connell St, North City, Dublin" type="Restaurant" foodtype="Fast food (chips are gluten free)" lat="53.348171" long="-6.260002"/>
+<marker id="" name="Supermacs" address="47-49 Talbot Street, Mountjoy, Dublin 1" type="Restaurant" foodtype="Fast food (chips are gluten free)" lat="53.351418" long="-6.250362"/>
+<marker id="" name="O&#39;Briens Sandwich bar" address="Ilac Shopping Centre, Henry St, North City, Dublinn" type="Cafe" foodtype="Sandwiches and salads" lat="53.350559" long="-6.264071"/>
+<marker id="" name="Dunnes Stores" address="48-50 Henry Street, North City, Dublin 1" type="Supermarket" foodtype="General" lat="53.349888" long="-6.265444"/>
+<marker id="" name="Aldi" address="38-41 Parnell St, North City, Dublin 1" type="Supermarket" foodtype="General" lat="53.350315" long="-6.265975"/>
+<marker id="" name="Marks and Spencers" address="24-29 Mary Street, North City, Dublin" type="Supermarket" foodtype="General" lat="53.348915" long="-6.264683"/>
+<marker id="" name="ITSA" address="Arnotts, Abbey Street" type="Cafe" foodtype="Bagels" lat="53.348156" long="-6.262661"/>
+<marker id="" name="Butlers Chocolate Cafe" address="4 Liffey Street Lower, North City, Dublin 1" type="Cafe" foodtype="Conectionaries" lat="53.347050" long="-6.263205"/>
+<marker id="" name="Foodie" address="North Dock, Dublin" type="Cafe" foodtype="Breakfasts" lat="53.349163" long="-6.243826"/>
+<marker id="" name="Bunsen" address="22 Essex St E, Temple Bar, Dublin 2" type="Restaurant" foodtype="Burgers and chips" lat="53.345577" long="-6.264364"/>
+<marker id="" name="Pablo Picante" address="22 Fleet St, Temple Bar, Dublin" type="Restaurant" foodtype="Burrito bowls" lat="53.345676" long="-6.261448"/>
+<marker id="" name="Tesco Metro" address="40-47 Fleet St, Temple Bar, Dublin 2" type="Supermarket" foodtype="General" lat="53.345699" long="-6.259986"/>
+<marker id="" name="Super/Valu Aston Quay" address="14-18 Aston Quay, Temple Bar, Dublin 2" type="Supermarket" foodtype="General" lat="53.346527" long="-6.260260"/>
+<marker id="" name="Costa Coffee" address="North Dock, Dublin" type="Cafe" foodtype="Coffees and certain foods" lat="53.348972" long="-6.227762"/>
+<marker id="" name="Lidl" address="1 Moore St, North City, Dublin 1" type="Supermarket" foodtype="General" lat="53.351135" long="-6.263256"/>
+<marker id="" name="Cafe Azteca" address="19 Lord Edward St, Dublin" type="Cafe" foodtype="Mexican foods" lat="53.343719" long="-6.269084"/>
+<marker id="" name="Captain Americas" address="44 Grafton Street, Dublin 2" type="Restaurant" foodtype="Fast food" lat="53.340488" long="-6.260619"/>
+</markers>
