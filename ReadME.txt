@@ -1,5 +1,7 @@
 The other ReadMe called: Default README.md is the default cloud9 ReadMe
 
+The link to the project Cloud9 development location is: https://ide.c9.io/imperialguard82/bad_project
+
 Getting onto the database:
 The database is accessible through this link: https://bad-project-imperialguard82.c9users.io/phpmyadmin
 If phpmadmin is not installed (it should be) then run this command: phpmyadmin-ctl install
