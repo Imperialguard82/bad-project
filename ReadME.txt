@@ -7,6 +7,7 @@ The database is accessible through this link: https://bad-project-imperialguard8
 If phpmadmin is not installed (it should be) then run this command: phpmyadmin-ctl install
 To login to phpmyadmin the Name is imperialguard82 and then there is no password.
 
+The Database file is called gluten_free.sql, it works on the command line
 
 Actually using the website:
 The website has no login or register function.
